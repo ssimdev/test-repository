@@ -1,0 +1,11 @@
+apk/
+app/
+cgi-bin/
+cms_adminpanel/
+cms_login/
+cms_upload/
+site_images/
+_bin/
+site_includes/
+site_modules/
+sync/
